@@ -1,0 +1,20 @@
+.main-div {
+    position: relative; 
+
+     overflow: visible; 
+}
+
+.image_2, .image_1 {
+    position: absolute;
+    width: 600px;
+}
+
+.image_2 {
+    top: 220px;
+    left: 40px;
+}
+
+.image_1 {
+    top: 0px; /* Adjust positioning as needed */
+    left: 370px; /* Adjust positioning as needed */
+}
